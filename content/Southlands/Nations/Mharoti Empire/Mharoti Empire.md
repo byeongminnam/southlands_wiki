@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Middle_East | **Nation:** #Mharoti_Empire
-___
 Mharoti Empire is a nation in the Middle East. 
 
 The lands of the Dragoncoil Mountains have always been infested with drakes, wyrms, and wyverns—they give the mountains their name. But about 400 years ago, one especially cunning red dragon by the name of Mharot decided he was tired of working so hard to steal golden treasures from humans and dwarves, and then being forced to continually guard those treasures. He proposed a pact to neighboring dragons, and he accepted the standing offers from kobold tribes to give their whole-hearted allegiance to the dragons in exchange for protection. With the patronage of the dragon gods and the aid of its elemental sorcery, the empire has grown great indeed.

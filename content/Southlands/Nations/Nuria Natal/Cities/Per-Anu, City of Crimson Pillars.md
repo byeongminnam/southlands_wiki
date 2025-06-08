@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal
-___
 It is said that only those who usher mortals into the next life can enter Per-Anu. In addition to being difficult to find, the city is warded against entrance by anyone whose occupation doesn’t involve death or the dead in some aspect, such as the priests of certain faiths, gravebinders, necromancers, butchers, healers, murderers, and killers. Because of these restrictions, few farmers, artisans, and other common folk reside in the city, though the throngs of undead inside ensure that the place is always busy.
 
 Per-Anu sits in a sheltered hollow in the Mushmes Hills in the northeast part of Nuria Natal. It is a compact settlement, with many large buildings and temples of sandstone separated by small plazas. It gained its appellation from the thousands of red columns that hold up the roofs of the Royal Embalmer’s Hall and the Many-Pillared Palace. The Red Market is also lined with these namesake crimson monoliths.

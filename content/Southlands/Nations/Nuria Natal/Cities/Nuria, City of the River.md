@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal | **City**: #Nuria
-___
 The Capital of [[Nuria Natal]]. 
 
 Citizens of Nuria Natal’s capital are simultaneously proud to be residents in the city of their beloved god-emperor and jealous of the greater profile they believe that cities such as [[Per-Bastet, City of the Cat]], [[Per-Xor, City of the Sun]], and [[Siwal]] have. Despite this perceived shortcoming, Nuria is a wonder of the world. One cannot walk a block without coming across a monument or a beautiful domed temple. Date palms line the boulevards, and small parks with pools, fountains, greenery, and blooming flowers abound within the city limits. During flood season, the god-king uses his control of the river’s waters and the Angel Road to prevent the city from being washed away. Instead, the floodwaters are redirected to the fields and pastures surrounding the capital.

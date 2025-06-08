@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal
-___
 The nine districts of Per-Bastet perch along the River Nuria near ancient monolith-statues depicting the gods. Felines rule the city. Uncountable numbers of them, along with gnolls, basteti, and feline lycanthropes of all varieties, walk the streets under the gaze of Reborn Queen-Goddess Meskhenit. The cats of Per-Bastet believe that the city’s namesake walks the streets and alleys alongside them, occasionally stepping through a catslide alley (see the sidebar) to elsewhere for a time when she sees fit.
 
 Per-Bastet enjoys cooler summers and warmer winters than the other cities of the river. Scholars cannot explain the phenomena in terms of what they know of the natural world, but divinations suggest divine interference and the manipulation of elemental magic might be involved. Regardless of the reason, subek inhabitants find they suffer less from flood fever during the rainy season. Winters and summers are extremely arid, while fog often billows over the city in the early hours of spring and autumn days.

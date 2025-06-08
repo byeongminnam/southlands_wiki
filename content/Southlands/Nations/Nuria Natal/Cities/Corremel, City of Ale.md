@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal | **City:** #Corremel
-___
 Corremel is a city in [[Nuria Natal]].
 
 The favored city of [[Ninkash]] has grown in importance and renown over the last few centuries. Corremel was founded by [[Minotaur|minotaurs]] as a fishing village, and it still commands an impressive fleet of fishing boats. When it was discovered that the soil of the delta could produce high-quality grain in immense quantities, the city’s focus switched from fishing to agriculture and brewing. The yeasty smell of fermenting ale suffuses the entire city in the summer months as prodigious quantities of the drink are produced, consumed, and traded to other cities.

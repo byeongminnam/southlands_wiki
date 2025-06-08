@@ -1,6 +1,3 @@
-#Region #Midgard
-___
-
 Different nations and peoples retell their histories from different perspectives, but some events are part of a bigger shared story that transcends those differences.
 
 | Period           | Events                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

@@ -1,6 +1,4 @@
-#Region #Midgard
-___
-Southlands is a region in [[Midgard]].
+Southlands is a region in Midgard.
 
 Beyond the southern shores of the Middle Sea lies a vast continent of mystery and adventure—the Southlands. Here, living gods control the lands along the magical River Nuria, often meddling in the affairs of their mortal subjects. At the moment, a fragile peace exists between the [[Nuria Natal|Nurians]] and the [[Mharoti Empire]], but recent history suggests this will not last for long. Lost tombs and rich oases dot the parched lands and caravans and [[Sandship|sandships]] ply the trade routes.
 

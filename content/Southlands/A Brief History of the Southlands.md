@@ -1,5 +1,3 @@
-#Region #Midgard
-___
 Over the millennia, empires and kingdoms have risen to unparalleled heights across the Southlands, only to succumb to fire, war, and chaos. As each has fallen, new kingdoms have arisen, often making it hard to determine when one nation ended and another one began.
 
 The greatest of the rulers and the cultures that have defined the Southlands are chronicled in the brief history presented here.
@@ -120,4 +118,4 @@ In the last year, four ships from the Lost Fleet have made landfall at Roshgazi;
 In the ruins of Kadralhu, treasure-laden heroes fleeing an undead minotaur run headlong into a hungry sandwyrm.
 ___
 **Next:** [[Nuria Natal]]
-**Further Reading:** [[An Abridged Chronology of Southlands]]
+**Further Reading:** [[An Abridged Chronology]]

@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal | **City:** #Laksor
-___
 Hailed as the birthplace of Lada, goddess of healing and love, the temple city of Laksor has temples to all the major gods of Nuria Natal and at least one shrine dedicated to each of the nation’s minor gods. It also boasts many shrines and several pantheist temples to the other gods of Midgard.
 
 Hundreds of spires, domes, towers, and high archways dominate the city’s skyline, seeming to reach for the gods themselves. Colonnaded courtyards and parks separate residential areas from businesses and labor yards. Lapis-lined fountains shower magically perfumed water into lotus- and lily-filled pools. The residents of Laksor claim that their city is the most beautiful and cosmopolitan in the River Kingdom.
