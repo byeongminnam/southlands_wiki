@@ -27,7 +27,7 @@ On the opposite side of the continent, the [[The Corsair Coast|Corsair Coast]] r
 
 The huge central expanse of the Southlands, once the heart of Glorious Umbuso, has become the [[The Abandoned Lands|Abandoned Lands]], filled with ruins of the titans and plagued by unpredictable magic. Two major civilizations are found here: the Ramag, once-human servants of the titans, and the [[Hives of the Tosculi]].
 
-Finally, at the bottom of the continent lies the Southern Fringe, a large region featuring fierce [[trollkin]], fanatical [[lizardfolk]], arrogant [[xorn]], and an unusual kingdom of chivalric knights.
+Finally, at the bottom of the continent lies the Southern Fringe, a large region featuring fierce [[Trollkin]], fanatical [[Lizardfolk]], arrogant [[xorn]], and an unusual kingdom of chivalric knights.
 
 ___
 **Next:** [[A Brief History of the Southlands]]

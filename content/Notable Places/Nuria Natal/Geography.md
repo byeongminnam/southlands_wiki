@@ -1,5 +1,3 @@
-#Midgard #South_Lands #Nuria_Natal
-___
 The River Nuria runs the length of [[Nuria Natal]], tumbling from Black Lotus Mesa in the south and thundering into the Middle Sea in the north. Stretching over a dozen miles away from each riverbank is the fertile farmland that nourishes the River Kingdom. Whether pastureland that feeds the cattle, expanses of golden wheat, or fields that produce flax and hemp used to make clothes and trade goods of all kinds, the farms of Nuria keep the people fed and clothed. Boats ply the river day and night all year round. Treasures find their way to the major settlements at the nation’s heart, while excess goods are exported to other regions of Nuria and other lands.
 
 ![[Map of Nuria Natal.png]]

@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal
-___
 Nuria Natal is a nation in [[Southlands|Southlands]]. It is a land of ancient magic and cyclopean monuments; a land of desert siroccos and time-lost necropolises; a land where gods walk and nobles scheme. Nuria Natal is a land where the poorest beggar might cross paths with ancient monarchs. Coursing through it all is the River Nuria, the kingdom’s lifeblood. The people of Nuria know they live in the greatest of lands, and that their kingdom and culture will endure until the end of all things as long as they respect and revere the river.
 ![[Nuria Natal.png]]
 **Ruler:** God-King Thutmoses XXIII

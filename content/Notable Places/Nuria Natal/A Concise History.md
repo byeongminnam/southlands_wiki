@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal
-___
 Tales of its origin differ in the details, but all agree that Nuria Natal, the oldest kingdom of Midgard, was founded over 5,000 years ago by a group of seven families who gathered by the River Nuria at the end of a long journey. One of these 63 founders, a wizard, noticed arcane energy swirling in the water and realized that drinking the water enabled him to affect the area’s ley lines. The wizard took control of the group, named the river Nuria, meaning “luminous,” and supervised the building of a city at the location.
 
 As the ages passed, the wizard’s successor god-kings and god-queens, all of whom are descended from the original seven families, attained near divinity through their experiments with the enchanted water and its relationship with the ley lines. They also discovered or created rituals that would wake them from their death slumber if Nuria Natal becomes endangered. These semidivine beings, in conjunction with the gods of the Nurian pantheon, have watched over the River Kingdom since the time before the sinking of Ankeshel.

@@ -1,5 +1,3 @@
-**Realm:** #Midgard | **Region:** #Southlands | **Nation:** #Nuria_Natal
-___
 In a culture as old as Nuria Natal’s, secret societies and esoteric orders proliferate. Every city includes organizations devoted to some task, cause, or philosophy. Most of these groups are open to anyone with an interest, though the most secret of them are difficult to locate and even more difficult to join. Some of the more powerful or insidious organizations are described below.
 
 ### Children of the Radiant Orb
