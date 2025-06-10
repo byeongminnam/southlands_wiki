@@ -1,3 +1,0 @@
-Rapid growth of its economy has made Per-Kush the envy of Nuria Natal. The hunting of the great beasts from farther south has brought incredible wealth into the city, to the presumed delight of its patron deity, the Hunter. If Per-Kush maintains its current rate of growth, it will exceed Nuria in area within two generations.
-
-In addition to the Hunter, the city sees widespread worship of the elephant god Abu, and Ptah (Volund). City-wide games are held each summer, testing the physical competence of those who participate. The arenas and parks fill with jubilant revelers gathered to watch the best athletes in the city. Winners are showered with accolades and gold, while losers are sometimes stalked and slain by overzealous adherents of the Hunter.

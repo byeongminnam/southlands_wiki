@@ -1,0 +1,2 @@
+![[Dabu Pictures.png]]
+From afar, the encampments of the gnoll clans of Dabu all look alike: they are made up of tents of hide or canvas and wagons that have been stolen from caravans, and these fixtures are often arranged so that they surround pens of livestock. The clans, however, differ from one another in ways that only the gnolls themselves can fully appreciate. Each group has its own customs, laws, and practices, depending largely on which god it serves and also on the geographical and political circumstances of its existence.

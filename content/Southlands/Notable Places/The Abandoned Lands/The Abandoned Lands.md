@@ -1,0 +1,4 @@
+![[The Abandoned Land.png]]
+The vast central expanse of the Southlands, the former homeland of Glorious Umbuso, is barely inhabited by humans and their allied races, but it is occupied by titanic monsters, magical sites, and oddities such as a city upon a lake. Despite its great area, this region holds only two major nations: Ramag, whose scattered people are inimitably tied to their primal magical lands, and the land held by the tosculi, a vicious insectoid race that overruns everything in its path, described in Hives of the Tosculi.
+
+These reaches are known as the Abandoned Lands—at once dangerous and, for those brave enough, hypnotically inviting. It’s risky to try to steal the treasures of the past from a forbidden ruin, but the promise of riches stirs a few adventurers to mount expeditions every year.

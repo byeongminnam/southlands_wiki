@@ -1,0 +1,4 @@
+![[Southern Fringe.png]]
+The southernmost tip of the Southlands is as wild as any other region on this continent. Fierce trollkin, imperious xorn, fanatical lizardfolk, and an entire city of thieves inside an old wine bottle can be found here.  
+
+The Zobanu Jungle, the largest expanse of rainforest on Midgard, dominates the Southern Fringe. Much of the jungle is occupied by lizardfolk who believe that the Great Serpent has chosen them to overrun the world. To the north and southeast are trollkin that would rather flay strangers alive than trade with them. The Southern Fringe is the location of some of the Southlands’ greatest assets and riches, including one of the region’s richest seaports and an island that boasts an enormous gold mine. The risks are great in the Southern Fringe, but the potential rewards are much, much greater.

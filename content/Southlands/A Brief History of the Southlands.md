@@ -68,8 +68,7 @@ As the Green Walker pulled itself from the earth, it left behind an enormous sin
 
 In an effort to stop the monstrosity’s rampage, the druids sacrificed themselves and the divine spark of their titan in a great ritual. The act met with only limited success, slowing the growth of the Green Walker but failing to banish it. The living jungle of Yawchaka remains one of the most dangerous places in the Southlands today. In the aftermath, many Kushites turned to darkness, making pacts with fiends to rebuild their kingdom. Kush is still ruled by Nulu Nagora, its Eternal Lord, 300 years later.
 ### Dragon Incursions
-
-![](https://files.d20.io/images/237612638/hN1Iws9ai_0Qghr8Kmwz0Q/max.png?1627880031)  
+![[Dragon Incursions.png]]
 
 Three hundred years ago the Mharoti dragons descended on the minotaur cities of the Moon Kingdom. Kadralhu and Derrada were destroyed, while Roshgazi and Cindass were reduced to ruins. The minotaurs fled to Capleon and Kyprion in their ships, but the “Lost Fleet” never arrived.
 
@@ -82,11 +81,6 @@ The dragons attacked Nuria again 125 years ago, burning the city of Avaris. This
 Ten years later, the dragons struck once more, destroying the great dam at Khazephon and flooding the city. The last king of Ishadia perished in the deluge.
 ### Rise of the Arcane Wasting
 Roughly 110 years ago, a disease known as the arcane wasting (see below) spread like quicksilver through the kingdom of Morreg and the ramag of Black Lotus Mesa, passing from one mage to another. Those affected began suffering from forgetfulness before their minds deteriorated and ultimately wasted away. The Morregi accused the serpent scholars of Lignas of creating the disease at first, but the blame lay with the sorcerers of Xangui-Xa who had created the white apes 2,000 years earlier. The priests of Morreg eventually got the disease under control, but not until thousands had succumbed. The ramag took drastic action to protect the rest of Ramagani, closing the portals to the district of their city that lies on Black Lotus Mesa, thus abandoning their kin to their fate.
-### Arcane Wasting
-
-> When the bodily fluid of a creature infected with arcane wasting touches a humanoid or when an infected creature casts a spell that affects a humanoid (directly or indirectly), that creature must succeed on a DC 15 Constitution saving throw or also become infected with the disease.  
-> Beginning 1d6 days after a creature becomes infected, the creature must make a DC 15 Constitution saving throw after finishing a long rest. On a failed save, the victim loses 1d3 Intelligence and 1d3 Wisdom. Lost Intelligence and Wisdom can’t be recovered while the disease persists. On a successful save, nothing happens; the disease is cured when the victim makes two consecutive successful saving throws.  
-> Once the disease is cured, lost Intelligence and Wisdom can be restored by greater restoration or comparable magic. The disease is also cured by lesser restoration if the caster makes a successful DC 15 check using the caster’s spellcasting ability.
 ### The Last Hundred Years
 
 At the turn of the century, Vaghamesh Drustani Arenja became the Saffron Rajah of Kesara. Sixteen years later, the ancient dragon Fanarash declared the mountains near Sudvall his personal domain. To avoid potential bloodshed, Sudvall promptly signed a nonaggression pact with Fanarash.
@@ -116,6 +110,7 @@ Three years ago, the mighty Lukwata stirred in its sleep at the bottom of Lake D
 In the last year, four ships from the Lost Fleet have made landfall at Roshgazi; their crew and passengers have no memory of the past 300 years. In Shibai, a slave revolt instigated by the Istagal Raiders has dealt a crushing blow to the slave trade. The warlord Faez is uniting the sand giant tribes of the Ishmai Desert, while elsewhere Ia’Affrat, Herald of Arbeyach, plots and schemes to bring the tosculi hives together. New rulers will soon be chosen to replace the dying Queen of Queens in Terrotu and the King of the Luminous Roads in Ramagani. And in the High Jungles, the druids have at last returned, inspired by the dreams of a sleeping titan.
 
 In the ruins of Kadralhu, treasure-laden heroes fleeing an undead minotaur run headlong into a hungry sandwyrm.
+
+**Further Reading:** [[An Abridged Chronology]]
 ___
 **Next:** [[Nuria Natal]]
-**Further Reading:** [[An Abridged Chronology]]

@@ -1,0 +1,2 @@
+![[the Corsair Coast.png]]
+The Corsair Coast is a region of untold variety, featuring everything from a fallen city of possessed princes to kingdoms of ferocious hunters to a chain of islands in which the rule of law is found only at the end of a pirate’s cutlass. There is incredible danger here, but for those stout enough of heart and strong enough of limb, the promise of power and riches beckons.
